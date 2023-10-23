@@ -12,10 +12,10 @@
 ![foto](foto/usecase.png)
 
 ## 4. Activity Diagram
-![foto](foto/activity.jpg)
+![foto](foto/aktif.png)
 
 ## 5. Sequence Diagram
-![foto](foto/sequence.jpg)
+![foto](foto/squenc.png)
 
 ## 6. Class Diagram
 ![foto](foto/klas.png)
