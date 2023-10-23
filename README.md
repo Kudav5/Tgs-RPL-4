@@ -9,7 +9,7 @@
 - NoWords yaitu game puzzle yang tiada kata-kata didalam game
 
 ## 3. Use Case Diagram
-![foto](foto/usecase.jpg)
+![foto](foto/usecase.png)
 
 ## 4. Activity Diagram
 ![foto](foto/activity.jpg)
