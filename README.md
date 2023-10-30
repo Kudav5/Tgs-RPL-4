@@ -15,7 +15,7 @@
 1. activity start
 ![foto](foto_new/act%20start.png)
 2. activity setting
-![foto](foto_new/act%20setting.png.png)
+![foto](foto_new/act%20setting.png)
 
 ## 5. Sequence Diagram
 ![foto](foto_new/sqm.png)
